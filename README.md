@@ -20,7 +20,7 @@ Welcome to the Udemy Clone project! This is a responsive web application designe
 
 
    ```
-3. Open `index.html` in your preferred web browser.
+3. Open https://shanmugapriya-1994.github.io/udemy-website/ in your preferred web browser.
 
 
 ## Future Improvements
