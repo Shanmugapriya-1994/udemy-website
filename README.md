@@ -1,7 +1,3 @@
-Sure! Here’s a description you can use for your GitHub README file for your Udemy-like website project:
-
----
-
 # Udemy Clone
 
 Welcome to the Udemy Clone project! This is a responsive web application designed to mimic the functionality and layout of the popular online learning platform, Udemy. Built using HTML and CSS, this project aims to showcase my skills in front-end development and provide a user-friendly interface for online courses.
